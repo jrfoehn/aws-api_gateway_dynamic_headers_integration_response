@@ -28,8 +28,9 @@ The below metrics displays approximate values associated with deploying and usin
 
 Metric | Value
 ------ | ------
-**Type** | [Demonstration\|Basic Block\|Architecture\|Workshop\|...]
+**Type** | Demonstration
 **Installation Time** | 2 minutes
+**Run Time** | 10 minutes
 **Audience** | Developers, Solutions Architects
 
 ## 🎒 Pre-requisites
