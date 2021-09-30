@@ -8,7 +8,6 @@ Lead Maintainer: [Jean-Robin Foehn](mailto:fjeanrob@amazon.com)
 - [Metrics](#-metrics)
 - [Pre-requisites](#-pre-requisites)
 - [Description](#-description)
-- [Usage](#-usage)
 - [See also](#-see-also)
 
 ## 🚀 Install
@@ -44,7 +43,7 @@ List here your project pre-requisites
 This demo shows how you can pass return values from a Lambda Function to API Gateway's respone headers through the use of Method & Integration Response.  
 The API Gateway returns a custom header (```x-custom-header```) with the current date & time as a value
 
-### Running the demo (optional)
+### Running the demo
 
 Run the following:
 ```bash
